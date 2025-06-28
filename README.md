@@ -120,7 +120,6 @@ pip install -r requirements.txt
 
 ## 📌 Notes
 
-- Accuracy ~80-85% on validation set
 - Logistic Regression meets the requirement of “simple, interpretable ML model”
 - Streamlit app provides optional interactive demo
 - Project is easily extendable to use other models (e.g., Naive Bayes, SVM)
